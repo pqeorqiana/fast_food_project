@@ -1,0 +1,74 @@
+D:\info\proiect\proiect\bin\Debug\proiect.exe.config
+D:\info\proiect\proiect\bin\Debug\proiect.exe
+D:\info\proiect\proiect\bin\Debug\proiect.pdb
+D:\info\proiect\proiect\obj\Debug\proiect.csprojAssemblyReference.cache
+D:\info\proiect\proiect\obj\Debug\proiect.Form1.resources
+D:\info\proiect\proiect\obj\Debug\proiect.Interfata2.resources
+D:\info\proiect\proiect\obj\Debug\proiect.InterfataCategorii.resources
+D:\info\proiect\proiect\obj\Debug\proiect.InterfataClienti.resources
+D:\info\proiect\proiect\obj\Debug\proiect.InterfataInr.resources
+D:\info\proiect\proiect\obj\Debug\proiect.InterfataProdus.resources
+D:\info\proiect\proiect\obj\Debug\proiect.Properties.Resources.resources
+D:\info\proiect\proiect\obj\Debug\proiect.csproj.GenerateResource.cache
+D:\info\proiect\proiect\obj\Debug\proiect.csproj.CoreCompileInputs.cache
+D:\info\proiect\proiect\obj\Debug\proiect.exe
+D:\info\proiect\proiect\obj\Debug\proiect.pdb
+D:\info\proiect\proiect\bin\Debug\fastfooddb.mdf
+D:\info\proiect\proiect\bin\Debug\fastfooddb_log.ldf
+D:\info\proiect\proiect\obj\Debug\proiect.InterfataComanda.resources
+C:\Users\georg\OneDrive\Documents\atestat 12\proiect\proiect\bin\Debug\fastfooddb.mdf
+C:\Users\georg\OneDrive\Documents\atestat 12\proiect\proiect\bin\Debug\fastfooddb_log.ldf
+C:\Users\georg\OneDrive\Documents\atestat 12\proiect\proiect\bin\Debug\proiect.exe.config
+C:\Users\georg\OneDrive\Documents\atestat 12\proiect\proiect\bin\Debug\proiect.exe
+C:\Users\georg\OneDrive\Documents\atestat 12\proiect\proiect\bin\Debug\proiect.pdb
+C:\Users\georg\OneDrive\Documents\atestat 12\proiect\proiect\obj\Debug\proiect.csproj.AssemblyReference.cache
+C:\Users\georg\OneDrive\Documents\atestat 12\proiect\proiect\obj\Debug\proiect.csproj.SuggestedBindingRedirects.cache
+C:\Users\georg\OneDrive\Documents\atestat 12\proiect\proiect\obj\Debug\proiect.Form1.resources
+C:\Users\georg\OneDrive\Documents\atestat 12\proiect\proiect\obj\Debug\proiect.Interfata2.resources
+C:\Users\georg\OneDrive\Documents\atestat 12\proiect\proiect\obj\Debug\proiect.InterfataCategorii.resources
+C:\Users\georg\OneDrive\Documents\atestat 12\proiect\proiect\obj\Debug\proiect.InterfataClienti.resources
+C:\Users\georg\OneDrive\Documents\atestat 12\proiect\proiect\obj\Debug\proiect.InterfataComanda.resources
+C:\Users\georg\OneDrive\Documents\atestat 12\proiect\proiect\obj\Debug\proiect.InterfataInr.resources
+C:\Users\georg\OneDrive\Documents\atestat 12\proiect\proiect\obj\Debug\proiect.InterfataProdus.resources
+C:\Users\georg\OneDrive\Documents\atestat 12\proiect\proiect\obj\Debug\proiect.Properties.Resources.resources
+C:\Users\georg\OneDrive\Documents\atestat 12\proiect\proiect\obj\Debug\proiect.csproj.GenerateResource.cache
+C:\Users\georg\OneDrive\Documents\atestat 12\proiect\proiect\obj\Debug\proiect.csproj.CoreCompileInputs.cache
+C:\Users\georg\OneDrive\Documents\atestat 12\proiect\proiect\obj\Debug\proiect.exe
+C:\Users\georg\OneDrive\Documents\atestat 12\proiect\proiect\obj\Debug\proiect.pdb
+C:\Users\georg\OneDrive\Documents\Proiecte realizate de-a lungul vietii\atestat 12\proiect\proiect\bin\Debug\fastfooddb.mdf
+C:\Users\georg\OneDrive\Documents\Proiecte realizate de-a lungul vietii\atestat 12\proiect\proiect\bin\Debug\fastfooddb_log.ldf
+C:\Users\georg\OneDrive\Documents\Proiecte realizate de-a lungul vietii\atestat 12\proiect\proiect\bin\Debug\proiect.exe.config
+C:\Users\georg\OneDrive\Documents\Proiecte realizate de-a lungul vietii\atestat 12\proiect\proiect\bin\Debug\proiect.exe
+C:\Users\georg\OneDrive\Documents\Proiecte realizate de-a lungul vietii\atestat 12\proiect\proiect\bin\Debug\proiect.pdb
+C:\Users\georg\OneDrive\Documents\Proiecte realizate de-a lungul vietii\atestat 12\proiect\proiect\obj\Debug\proiect.csproj.AssemblyReference.cache
+C:\Users\georg\OneDrive\Documents\Proiecte realizate de-a lungul vietii\atestat 12\proiect\proiect\obj\Debug\proiect.csproj.SuggestedBindingRedirects.cache
+C:\Users\georg\OneDrive\Documents\Proiecte realizate de-a lungul vietii\atestat 12\proiect\proiect\obj\Debug\proiect.Form1.resources
+C:\Users\georg\OneDrive\Documents\Proiecte realizate de-a lungul vietii\atestat 12\proiect\proiect\obj\Debug\proiect.Interfata2.resources
+C:\Users\georg\OneDrive\Documents\Proiecte realizate de-a lungul vietii\atestat 12\proiect\proiect\obj\Debug\proiect.InterfataCategorii.resources
+C:\Users\georg\OneDrive\Documents\Proiecte realizate de-a lungul vietii\atestat 12\proiect\proiect\obj\Debug\proiect.InterfataClienti.resources
+C:\Users\georg\OneDrive\Documents\Proiecte realizate de-a lungul vietii\atestat 12\proiect\proiect\obj\Debug\proiect.InterfataComanda.resources
+C:\Users\georg\OneDrive\Documents\Proiecte realizate de-a lungul vietii\atestat 12\proiect\proiect\obj\Debug\proiect.InterfataInr.resources
+C:\Users\georg\OneDrive\Documents\Proiecte realizate de-a lungul vietii\atestat 12\proiect\proiect\obj\Debug\proiect.InterfataProdus.resources
+C:\Users\georg\OneDrive\Documents\Proiecte realizate de-a lungul vietii\atestat 12\proiect\proiect\obj\Debug\proiect.Properties.Resources.resources
+C:\Users\georg\OneDrive\Documents\Proiecte realizate de-a lungul vietii\atestat 12\proiect\proiect\obj\Debug\proiect.csproj.GenerateResource.cache
+C:\Users\georg\OneDrive\Documents\Proiecte realizate de-a lungul vietii\atestat 12\proiect\proiect\obj\Debug\proiect.csproj.CoreCompileInputs.cache
+C:\Users\georg\OneDrive\Documents\Proiecte realizate de-a lungul vietii\atestat 12\proiect\proiect\obj\Debug\proiect.exe
+C:\Users\georg\OneDrive\Documents\Proiecte realizate de-a lungul vietii\atestat 12\proiect\proiect\obj\Debug\proiect.pdb
+C:\Proiecte realizate de-a lungul vietii\atestat 12\proiect\proiect\bin\Debug\fastfooddb.mdf
+C:\Proiecte realizate de-a lungul vietii\atestat 12\proiect\proiect\bin\Debug\fastfooddb_log.ldf
+C:\Proiecte realizate de-a lungul vietii\atestat 12\proiect\proiect\bin\Debug\proiect.exe.config
+C:\Proiecte realizate de-a lungul vietii\atestat 12\proiect\proiect\bin\Debug\proiect.exe
+C:\Proiecte realizate de-a lungul vietii\atestat 12\proiect\proiect\bin\Debug\proiect.pdb
+C:\Proiecte realizate de-a lungul vietii\atestat 12\proiect\proiect\obj\Debug\proiect.csproj.AssemblyReference.cache
+C:\Proiecte realizate de-a lungul vietii\atestat 12\proiect\proiect\obj\Debug\proiect.Form1.resources
+C:\Proiecte realizate de-a lungul vietii\atestat 12\proiect\proiect\obj\Debug\proiect.Interfata2.resources
+C:\Proiecte realizate de-a lungul vietii\atestat 12\proiect\proiect\obj\Debug\proiect.InterfataCategorii.resources
+C:\Proiecte realizate de-a lungul vietii\atestat 12\proiect\proiect\obj\Debug\proiect.InterfataClienti.resources
+C:\Proiecte realizate de-a lungul vietii\atestat 12\proiect\proiect\obj\Debug\proiect.InterfataComanda.resources
+C:\Proiecte realizate de-a lungul vietii\atestat 12\proiect\proiect\obj\Debug\proiect.InterfataInr.resources
+C:\Proiecte realizate de-a lungul vietii\atestat 12\proiect\proiect\obj\Debug\proiect.InterfataProdus.resources
+C:\Proiecte realizate de-a lungul vietii\atestat 12\proiect\proiect\obj\Debug\proiect.Properties.Resources.resources
+C:\Proiecte realizate de-a lungul vietii\atestat 12\proiect\proiect\obj\Debug\proiect.csproj.GenerateResource.cache
+C:\Proiecte realizate de-a lungul vietii\atestat 12\proiect\proiect\obj\Debug\proiect.csproj.CoreCompileInputs.cache
+C:\Proiecte realizate de-a lungul vietii\atestat 12\proiect\proiect\obj\Debug\proiect.exe
+C:\Proiecte realizate de-a lungul vietii\atestat 12\proiect\proiect\obj\Debug\proiect.pdb
